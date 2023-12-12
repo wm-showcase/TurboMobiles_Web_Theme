@@ -33,11 +33,11 @@ $ npm install --g bower grunt-cli
 
 Setup WaveMaker Theme Repository
 --------
-To clone the grunt-wavemaker-theme repository, use git clone:
+To clone the TurboMobiles_Web_Theme repository, use git clone:
 
 <pre>
- git clone https://github.com/wavemaker/grunt-wavemaker-theme.git
- cd grunt-wavemaker-theme
+ git clone https://github.com/wavemaker/TurboMobiles_Web_Theme.git
+ cd TurboMobiles_Web_Theme
  npm install
 </pre>
 
@@ -86,10 +86,10 @@ There will be references to Roboto regular fonts in the variables.less(src/web),
 
 Build
 --------
-To build the WaveMaker Theme run the below command from grunt-wavemaker-theme directory
+To build the WaveMaker Theme run the below command from TurboMobiles_Web_Theme directory
 
 <pre>
-cd grunt-wavemaker-theme
+cd TurboMobiles_Web_Theme
 grunt themes
 </pre>
 
